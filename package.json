@@ -1,0 +1,25 @@
+{
+  "name": "linkedin-clone",
+  "version": "1.0.0",
+  "description": "Building a LinkedIn Clone",
+  "main": "app.js",
+  "scripts": {
+    "watch": "nodemon db"
+  },
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "connect-flash": "0.1.1",
+    "connect-mongo": "3.0.0",
+    "dotenv": "8.1.0",
+    "ejs": "2.7.1",
+    "express": "4.17.1",
+    "express-session": "1.17.0",
+    "md5": "2.2.1",
+    "mongodb": "3.3.2",
+    "validator": "11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
